@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sobre Mim
 
-<!--
-**GustavoLima24/GustavoLima24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! 👋 Sou um estudante apaixonado por programação e tenho 17 anos. Estou em constante aprendizado e sempre buscando melhorar minhas habilidades de desenvolvimento. Atualmente, estou explorando várias linguagens e tecnologias.
 
-Here are some ideas to get you started:
+## Minhas Áreas de Interesse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento web (HTML, CSS, JavaScript)
+- Programação em Python
+- Ciência de dados e análise de dados
+- Aprendizado de máquina e inteligência artificial
+
+## Projetos
+
+- 🌐 Meu Portfólio: Pretendo colocar meus projetos e exeperimentos aqui.
+
+Vamos aprender juntos! 😊
