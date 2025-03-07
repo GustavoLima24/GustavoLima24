@@ -1,4 +1,4 @@
-# Sobre Mim
+# Guztavo Lima
 
 Olá! 👋 Sou um estudante apaixonado por programação e tenho 17 anos. Estou em constante aprendizado e sempre buscando melhorar minhas habilidades de desenvolvimento. Atualmente, estou explorando várias linguagens e tecnologias.
 
